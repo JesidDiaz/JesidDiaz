@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Jesid Díaz. 
 ![Foto](./foto.png)
 
-Apasionado por el análisis de datos, la ciencia aplicada y la generación de valor a partir de los datos. Me especializo en resolver problemas de negocio mediante el uso de técnicas de Machine Learning, análisis exploratorio y visualización, transformando datos complejos en decisiones estratégicas.
+Apasionado por el análisis de datos, la ciencia aplicada y la generación de valor a partir de los datos. Me especializo en resolver problemas de negocio mediante el uso de técnicas de Machine Learning, análisis de datos, visualización y modelos predictivos, transformando datos complejos en decisiones estratégicas.
 ---
 
 ## 🛠️ Habilidades Técnicas
